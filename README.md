@@ -70,7 +70,7 @@ Contact-Store-MERN/
 Inside `server/.env`:
 ```env
 PORT=5000
-MONGO_URI=mongodb+srv://amantalikoti2007_db_user:rBRMWlvVkBVUFxnH@cluster0.quoeglj.mongodb.net/contact_store?retryWrites=true&w=majority
+MONGO_URI=your mongo uri here
 JWT_SECRET=your_jwt_secret_here
 ```
 
